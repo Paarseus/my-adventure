@@ -9,8 +9,11 @@ So I plan to learn these subjects before starting a project:
 3. Fusion 360
 4. Reinforcement Learning
 
+Watched the videos from Articulated Robotics channel and here are my notes:
+
+
 # Recourses used so far:
 1. https://www.youtube.com/watch?v=2lIV3dRvHmQ&list=PLunhqkrRNRhYYCaSTVP-qJnyUPkTxJnBt
 2. https://leanpub.com/averyinformaljourneythroughros2
 3. https://docs.ros.org/en/iron/Installation.html
-4. 
+4. https://www.youtube.com/playlist?list=PL8i3OhJb4FNV10aIZ8oF0AA46HgA2ed8g
