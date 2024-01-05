@@ -17,3 +17,4 @@ Watched the videos from Articulated Robotics channel and here are my notes:
 2. https://leanpub.com/averyinformaljourneythroughros2
 3. https://docs.ros.org/en/iron/Installation.html
 4. https://www.youtube.com/playlist?list=PL8i3OhJb4FNV10aIZ8oF0AA46HgA2ed8g
+5. https://www.youtube.com/playlist?list=PLunhqkrRNRhYAffV8JDiFOatQXuU-NnxT
