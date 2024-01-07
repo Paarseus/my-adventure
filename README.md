@@ -20,3 +20,16 @@ Watched the videos from Articulated Robotics channel and here are my notes:
 5. https://www.youtube.com/playlist?list=PLunhqkrRNRhYAffV8JDiFOatQXuU-NnxT
 6. https://neptune.ai/blog/best-reinforcement-learning-tutorials-examples-projects-and-courses
 7. https://www.youtube.com/watch?v=-dK_80wu4xs
+
+
+
+
+A sorted out list for myself to get started:
+1. https://www.youtube.com/playlist?list=PLunhqkrRNRhYAffV8JDiFOatQXuU-NnxT
+2. https://docs.ros.org/en/iron/Tutorials.html'
+
+
+Machine Learning
+1. Hands-On Machine Learning by Geron
+2. https://www.youtube.com/watch?v=-dK_80wu4xs
+
