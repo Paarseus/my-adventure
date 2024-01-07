@@ -19,3 +19,4 @@ Watched the videos from Articulated Robotics channel and here are my notes:
 4. https://www.youtube.com/playlist?list=PL8i3OhJb4FNV10aIZ8oF0AA46HgA2ed8g
 5. https://www.youtube.com/playlist?list=PLunhqkrRNRhYAffV8JDiFOatQXuU-NnxT
 6. https://neptune.ai/blog/best-reinforcement-learning-tutorials-examples-projects-and-courses
+7. https://www.youtube.com/watch?v=-dK_80wu4xs
